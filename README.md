@@ -1,5 +1,4 @@
-# k-spectral-centroid-python
-K-Spectral Centroid: Cluster Time Series by Shape, in Python
+# K-Spectral Centroid: Cluster Time Series by Shape, in Python
 
 This rewrites the MATLAB implementation found here: http://snap.stanford.edu/data/ksc.html
 
